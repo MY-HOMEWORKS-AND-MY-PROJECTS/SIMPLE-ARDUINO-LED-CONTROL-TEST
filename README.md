@@ -1,1 +1,1 @@
-# CSharp Form ile Ardunio Led Konrol Projesi
+# SIMPLE ARDUINO LED CONTROL TEST ON C# FORM
